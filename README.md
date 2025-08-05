@@ -7,6 +7,8 @@ This entire repository is just documentation of my ML learning process and a sho
 
 Feel free to use any element of this repository for any purpose. Perhaps it has some educational value.
 
+## How to import pre-trained models
+- [Prophet](https://github.com/piwonski12/machine-learning/blob/main/models/prophet/howto.md)
 
 ## Author
 
